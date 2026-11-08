@@ -1,1 +1,3 @@
-function imgchange1(){ document.getElementByld('logo').src = './image/color.png'; }
+function imgchange1(){ document.getElementById('logo').src = './image/color.png'; }
+
+function imgchange2(){ document.getElementById('logo').src = './
