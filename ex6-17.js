@@ -7,6 +7,6 @@ if(cnt17 < 11){ //現在より1文字多く切り出して表示
   document.timer17.moji17.value = str17.substr(0,cnt17+1);}
   else{
     //すべて表示されたら、空文字に戻す
-  documentl.timer17.moji17.value = "";}
+  document.timer17.moji17.value = "";}
   //setTimeout()を含む関数を呼び出す
   setTimeout("hyoji17()",1000);}
