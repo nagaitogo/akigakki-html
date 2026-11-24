@@ -1,2 +1,3 @@
-function BMI() { var taijuu = document.getElementById('taijuu').value;
+function BMI() {var a = document.getElementById('taijuu').value;
+                var b = document.getElementById('sintyou').value;
                 
